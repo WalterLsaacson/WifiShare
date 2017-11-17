@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiShare</string>
+    <string name="click_to_connect">click to connect</string>
+    <string name="enter_password">enter password</string>
+    <string name="modify">modify</string>
+    <string name="share">share</string>
+</resources>
